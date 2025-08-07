@@ -1,5 +1,5 @@
 import 'package:divide_ai/main.dart';
-import 'package:divide_ai/app_routes.dart';
+import 'package:divide_ai/core/app_routes.dart';
 import 'package:divide_ai/features/home/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
